@@ -1,14 +1,30 @@
-# Zero para cancelar
+# ==========================================
+# QUESTÃO: Zero para Cancelar
+# ==========================================
 
-# Seu chefe está ao telefone, nervoso. Ele quer que você compute a soma de uma sequência de números que ele vai falar para você ao telefone, para saber o total das vendas em sua mais recente viagem de negócios.
+# 📌 Enunciado
+# Seu chefe está ao telefone, nervoso. Ele quer que você compute a soma
+# de uma sequência de números que ele vai falar para você ao telefone,
+# para saber o total das vendas de sua viagem de negócios.
 
-# Infelizmente, de vez em quando seu chefe fala números errados para você ao telefone.
+# Quando ele diz "0", isso significa cancelar o último número informado.
+# Ele pode cancelar várias vezes seguidas.
 
-# Felizmente, seu chefe rapidamente percebe que falou um número errado e diz "zero", que como combinado previamente quer dizer ignore o último número corrente.
+# O objetivo é somar todos os números válidos após considerar os cancelamentos.
 
-# Infelizmente, seu chefe pode cometer erros repetidos, e diz "zero" para cada erro.
+# 📌 Exemplo:
+# Fala: 1, 3, 5, 4, 0, 0, 7, 0, 0, 6
+# Pilha: [1, 3] → +7 → [1, 3, 7] → cancela → [1] → +6 → [1, 6]
+# Resultado final = 7
 
-# Para não deixar seu chefe ainda mais nervoso, escreva um programa que determine a soma total dos números falados por seu chefe ao telefone.
+# 📌 Entrada:
+# - Primeira linha: N (quantidade de valores)
+# - Próximas N linhas: valores Xi
+
+# 📌 Saída:
+# - Soma final dos números após os cancelamentos
+
+# ==========================================
 
 # A lógica é assim:
 
