@@ -35,7 +35,6 @@
 
 # Mensagem inicial e um 'INPUT' que Pede ao usuário para digitar um número entre 0 e 10
 print("___Ajudando o Ogro a aprender a contar usando os dedos___")
-Num = int(input("Ogro: Me diga um número entre 0 e 10: \n"))
 
 # Loop até o Ogro digitar um valor válido
 while True:
