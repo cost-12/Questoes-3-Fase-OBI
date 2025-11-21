@@ -3,7 +3,7 @@ def bolas():
     list_num = list(map(int, input().split()))
     qtd_num = [0] * 10
     num_max = ceil(len(list_num)/2)
-    if (len(list_num)) > 8:       
+    if 0 >= len(list_num) or len(list_num) > 8:     
         return
     else:
 
