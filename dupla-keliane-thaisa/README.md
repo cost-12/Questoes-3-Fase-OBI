@@ -4,7 +4,7 @@ Resolução do problema - Teclado.  (2021-3ª fase) - Olimpíada Brasileira de I
 <!-- ABOUT THE PROJECT -->
 ## Sobre o Projeto
 
-![Imagem](https://github.com/divenanciodev/dupla-keliane-thaisa/blob/main/resolu%C3%A7%C3%A3o_teclado/3%C2%AAfase_2021/Explica%C3%A7%C3%A3oProblema/1.png?raw=true)
+![Imagem](https://github.com/divenanciodev/dupla-keliane-thaisa/blob/main/resolu%C3%A7%C3%A3o_teclado/3%C2%AAfase_2021/Explica%C3%A7%C3%A3oProblema/imagem%2001.png?raw=true)
 
 <p align="right"</p>
 
