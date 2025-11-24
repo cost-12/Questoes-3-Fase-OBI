@@ -39,8 +39,7 @@ def inputColuna():
 def inputPretas():
     while True:
         entrada = input("Digite quantas pretas vão ao jogo: ").strip()
-        # se quer permitir até 10 pretas, passe max=11;
-        if verificacao(entrada, "preta", 10, 1) == 1:
+        if verificacao(entrada, "preta", 11, 1) == 1:
             continue
         return int(entrada)
 
