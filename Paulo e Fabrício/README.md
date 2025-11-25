@@ -1,7 +1,7 @@
 
 ________  ________
 # Questão OBI 2017 nível Sênior, fase 2
-*** Dario e Xerxes
+(**Dario e Xerxes**)
 
 Dario e Xerxes são dois amigos que bricam de pedra papel e tesoura
 logo, eles, antes disso, dão para realizar com 5 opções e não 3,
@@ -18,7 +18,8 @@ ________________
 Seu programa deve imprimir uma linha contendo o nome do jogador que venceu a partida: dario ou xerxes. Todas as letras devem ser minúsculas, sem nenhum acento!
 ________________
 ### Restrições
-    * 0 ≤ D,X ≤ 4 e D ≠ Xcv
+    - 1 ≤ N ≤ 999, N é impar
+    - 0 ≤ D,X ≤ 4 e D ≠ Xcv
 --- 
 ````Exemplos
 ----- Entrada -------
